@@ -1,4 +1,6 @@
 # Limbo-Data
-a markdown wiki of stake.us limbo target (1000x+) data from many different seeds
-seed data generated and exported using https://casinosimulator.netlify.app/
-Export target data as csv --> GPT 4--> Markdown Tables
+- Collection of Stake.us Limbo target multiplier data from different seeds.
+- Data is stored in Markdown Tables. 
+- Only interested in multipliers > 1000x
+- Seed data generated and exported using https://casinosimulator.netlify.app/
+- Export target data as csv --> GPT4 converts into markdown tables
